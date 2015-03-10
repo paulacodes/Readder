@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Readder</string>
+    <string name="action_settings">Choose a Subreddit</string>
+    <string name="title_activity_detail">Web View</string>
+    <string name="title_activity_settings">Choose a Subreddit</string>
+    <string name="pref_subreddit_label">Subreddit</string>
+    <string name="pref_subreddit_key" translatable="false">subreddit</string>
+    <string name="pref_subreddit_default" translatable="false">Android</string>
+
+    <!-- Account type (for sync-adapter authenticator) -->
+    <!-- SyncAdapter related -->
+    <string name="sync_account_type">readder.example.com</string>
+    <string name="content_authority">com.example.paula.readder</string>
+
+</resources>
